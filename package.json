@@ -1,0 +1,22 @@
+{
+  "name": "p-11-mybank-project-by-saifullah123",
+  "version": "1.0.0",
+  "description": "This is cli based Bank Acccount Application Project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "saifullahsafi454@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
